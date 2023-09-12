@@ -1,6 +1,6 @@
 # QR Component
 
-![QR Code](image-qr-code.png)
+![QR Code](Output.png)
 
 This project is a simple QR component that allows you to scan a QR code and visit Frontend Mentor to improve your front-end skills by building projects.
 
