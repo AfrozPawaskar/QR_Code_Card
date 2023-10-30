@@ -1,7 +1,5 @@
 # QR Component
 
-![QR Code](Output.png)
-
 This project is a simple QR component that allows you to scan a QR code and visit Frontend Mentor to improve your front-end skills by building projects.
 
 ## Getting Started
@@ -20,3 +18,7 @@ To get started with this project, follow these steps:
 
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges)
 - Code By - [Afroz Pawaskar](https://github.com/afrozpawaskar17026)
+
+## Output
+
+![QR Code](Output.png)
