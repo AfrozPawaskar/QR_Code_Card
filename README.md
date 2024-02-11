@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <div class="recipe-img">
-            <img src="/image-omelette.jpeg" alt="recipe-img">
+            <img src="./image-omelette.jpeg" alt="recipe-img">
         </div>
 
         <div class="recipe-information">
